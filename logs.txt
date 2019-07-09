@@ -1,3 +1,22 @@
+﻿commit 59b87d76b756a8ac65641f1c502a52a407262b81
+Author: Rafael Rodrigues dos Santos <rafa11rodrigues@gmail.com>
+Date:   Tue Jul 9 16:05:55 2019 -0300
+
+    status do repositório
+
+------------
+commit 4c3413dce772e440e5929ddf01151240647ef792
+Author: rafa11rodrigues <rafael11rodrigues@hotmail.com>
+Date:   Tue Jul 9 16:35:11 2019 -0300
+
+    Create README.MD
+
+commit c2e3c7e2fb535273a82eecf844d8dc852876c98f
+Author: Rafael Rodrigues dos Santos <rafa11rodrigues@gmail.com>
+Date:   Tue Jul 9 16:08:55 2019 -0300
+
+    arquivo de logs e alteração de status
+
 commit 59b87d76b756a8ac65641f1c502a52a407262b81
 Author: Rafael Rodrigues dos Santos <rafa11rodrigues@gmail.com>
 Date:   Tue Jul 9 16:05:55 2019 -0300
