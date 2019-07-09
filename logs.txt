@@ -1,0 +1,5 @@
+commit 59b87d76b756a8ac65641f1c502a52a407262b81
+Author: Rafael Rodrigues dos Santos <rafa11rodrigues@gmail.com>
+Date:   Tue Jul 9 16:05:55 2019 -0300
+
+    status do repositório
